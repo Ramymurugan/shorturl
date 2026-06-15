@@ -1,0 +1,4 @@
+/* Page specific overrides for Register screen */
+.register-header-glow {
+  text-shadow: 0 0 20px rgba(139, 92, 246, 0.4);
+}
