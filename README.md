@@ -192,3 +192,38 @@ urlController.redirectUrl()
 ---
 
 This project is a part of a hackathon run by https://katomaran.com
+
+
+## output
+Admin 
+sigup page<img width="1913" height="896" alt="image" src="https://github.com/user-attachments/assets/bca2b80f-7d2f-4480-a55e-27893f266857" />
+login page<img width="1913" height="896" alt="image" src="https://github.com/user-attachments/assets/00552479-66a8-4fff-9ed5-aecb3319eb40" />
+Admin page <img width="1917" height="919" alt="image" src="https://github.com/user-attachments/assets/906ab6ee-3458-405c-b906-542d484642ef" />
+dashboard <img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/febebd22-2f38-4ee0-9e95-b0cafca57fbb" />
+user's <img width="1915" height="910" alt="image" src="https://github.com/user-attachments/assets/5d841c05-4eae-41a9-8bfb-4a03e6034f01" />
+Request <img width="1914" height="923" alt="image" src="https://github.com/user-attachments/assets/c24b81c0-8a3e-4f69-8fed-11775fe810f3" />
+System url <img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/0fd383f7-0fe4-4bea-83c1-8ed1ea57242f" />
+reports <img width="1914" height="915" alt="image" src="https://github.com/user-attachments/assets/2adc7e40-6ed8-4260-9ab1-c2c27e60e5f8" />
+
+User
+sigup page<img width="1908" height="897" alt="image" src="https://github.com/user-attachments/assets/e5fa1134-322b-40e8-8e81-cc95be69c37c" />
+log in page <img width="1896" height="901" alt="image" src="https://github.com/user-attachments/assets/6bbc7197-c5ce-4b76-9b1d-ab93fe375074" />
+dashboard <img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/d8fdfa66-985e-495c-9620-c73d9ce9dd9d" />
+My link <img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/ba5d9e38-c3a8-483b-9ab3-48c3b7bf2464" />
+Analytics <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/3972ad46-07d0-422b-9d8a-7fb96c0313fa" />
+QR page <img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/5919f534-6495-4e96-bb57-b107fd8f298e" />
+settings page<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/2e67e4aa-ae92-45e7-b102-47295b64dd27" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
